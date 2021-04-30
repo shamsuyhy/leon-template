@@ -45,12 +45,6 @@ body{
 h3{
     color: var(--secondary-color);
 }
-@media(max-width:500px){
-    .container {
-        width:100%;
-        margin:0;
-        padding:0 15px 0 15px;
-    }
 /* End of Global rules*/
 /* start of components*/
 .special-heading{
